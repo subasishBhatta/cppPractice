@@ -42,7 +42,7 @@ int main()
     // cout << scores.at(0) << endl;
     // cout << scores.at(1) << endl;
     // cout << scores.at(2) << endl;
-    // It will check the bound and give a specific message
+    // // It will check the bound and give a specific message
     // cout << scores.at(3) << endl;
 // To get the size of the vector using vector method
     // cout << "\nThere are " << scores.size() << " values in the vector." << endl;
@@ -65,18 +65,18 @@ int main()
     };
 
     // Movie rating using array syntax
-    cout << "Movie rating of the first reviewer using the array syntax: " << endl;
-    cout << movie_ratings[0][0] << endl;
-    cout << movie_ratings[0][1] << endl;
-    cout << movie_ratings[0][2] << endl;
-    cout << movie_ratings[0][3] << endl;
+    // cout << "Movie rating of the first reviewer using the array syntax: " << endl;
+    // cout << movie_ratings[0][0] << endl;
+    // cout << movie_ratings[0][1] << endl;
+    // cout << movie_ratings[0][2] << endl;
+    // cout << movie_ratings[0][3] << endl;
 
-    // Movie rating using vector syntax
-    cout << "Movie rating of the first reviewer using the vector syntax: " << endl;
-    cout << movie_ratings.at(0).at(0) << endl;
-    cout << movie_ratings.at(0).at(1) << endl;
-    cout << movie_ratings.at(0).at(2) << endl;
-    cout << movie_ratings.at(0).at(3) << endl;
+    // // Movie rating using vector syntax
+    // cout << "Movie rating of the first reviewer using the vector syntax: " << endl;
+    // cout << movie_ratings.at(0).at(0) << endl;
+    // cout << movie_ratings.at(0).at(1) << endl;
+    // cout << movie_ratings.at(0).at(2) << endl;
+    // cout << movie_ratings.at(0).at(3) << endl;
     return 0;
 }
 
