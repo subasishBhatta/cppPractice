@@ -6,8 +6,8 @@ class Account
 {
     private:
         string str;
-        long long acc_no;
-        float money;
+        long long acc_no{};
+        float money{};
     public:
         void setData();
         void getData();
