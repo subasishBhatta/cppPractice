@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(.)
 
 add_executable(Classes__Objects
-        18_single_inherit_3.cpp)
+        26_new_and_delete_operator.cpp)
